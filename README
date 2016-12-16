@@ -1,0 +1,4 @@
+# Redis cluster Check
+
+This is a basic Redis cluster check for Check_MK/OMD.
+
