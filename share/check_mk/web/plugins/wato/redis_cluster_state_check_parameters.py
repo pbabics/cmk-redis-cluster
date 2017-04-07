@@ -53,5 +53,5 @@ register_check_parameters(
     ),
     TextAscii( title=_("Cluster node address"),
     help=_("Address of redis cluster node")),
-    "first",
+    "dict",
 )
